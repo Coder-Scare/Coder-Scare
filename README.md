@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-scare&label=Profile%20views&color=0e75b6&style=flat" alt="coder-scare" /> </p>
 
-- 🌱 I am a recent **HyperionDev Web Developer Graduate** with over 1 year of experience.
+- 🌱 I am a Software Developer with over 1 year of experience.
 
 - 👨‍💻 All of my projects are available at [https://coder-scare.github.io/portfolioWebsite/index](https://coder-scare.github.io/portfolioWebsite/index)
 
